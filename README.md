@@ -15,3 +15,5 @@
 ### Loss functions
 - [X] Cross Entropy Loss 
 
+### Data set
+THE [MNIST](http://yann.lecun.com/exdb/mnist/) DATABASE of handwritten digits.
