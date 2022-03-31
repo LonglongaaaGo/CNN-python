@@ -17,3 +17,9 @@
 
 ### Data set
 THE [MNIST](http://yann.lecun.com/exdb/mnist/) DATABASE of handwritten digits.
+
+### Training 
+- training the CNN.
+```
+python main.py
+```
