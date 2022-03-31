@@ -9,7 +9,7 @@
 - [] BatchNorm (forward & backward)
 
 ### Activate functions
-- [X] ReLu  (forward & backward)
+- [X] ReLU  (forward & backward)
 - [X] Softmax (forward & backward)
 - [X] Sigmoid (forward & backward)
 ### Loss functions
