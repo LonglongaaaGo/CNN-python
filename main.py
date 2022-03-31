@@ -30,7 +30,7 @@ def get_data(train_img,train_lab,batch,idx):
 
 if __name__ == '__main__':
     """
-    Wanglong Lu 202192116
+    run here.
     """
 
     objects = mnist
