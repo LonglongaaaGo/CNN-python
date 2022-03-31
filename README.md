@@ -1,2 +1,4 @@
 # CNN-python
- The implementation of Convlutional neural network based on Python-numpy
+ The implementation of a Convolutional neural network based on Python-NumPy.
+-[x] ReLu
+
